@@ -2,19 +2,19 @@
 
 ---
 
-# svelte todo app
+# Svelte todo app
 
-This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
+This is a showcase application project made with <3 and Svelte!
 
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
-
-```bash
-npx degit sveltejs/template svelte-app
-cd svelte-app
-```
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
 
+## Tech Stack
+
+* Svelte 3
+* Components
+* Styling via CSS
+* ES 6 syntax
 
 ## Get started
 
