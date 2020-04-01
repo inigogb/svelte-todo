@@ -5,6 +5,7 @@
 # Svelte todo app
 
 This is a showcase application project made with <3 and Svelte!
+You can check the live demo [here](https://inigo-garcia-b-svelte-todo.netlify.com/)
 
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
